@@ -17,6 +17,7 @@ The project aims to solves the challenges by
 There are two main aspects to this.
 
 ### The main interface
+<img src="https://github.com/RohitEdathil/lights/blob/master/img/1.jpg" style="width:300px">
 
 It contains a large, easily readable text which corresponds to the currently active function.
 
@@ -29,7 +30,7 @@ It contains a large, easily readable text which corresponds to the currently act
 - `Long pressing` will execute the function.
 
 ### The settings
-
+<img src="https://github.com/RohitEdathil/lights/blob/master/img/4.jpg" style="width:300px">
 This section is ment to be used by a regular person whom the user trusts. This person can help the user to change the settings of the app.
 
 #### App Settings
@@ -37,15 +38,16 @@ This section is ment to be used by a regular person whom the user trusts. This p
 Has the following options divided into sections:
 
 - Speech
-
   - Adjust speech speed
   - Adjust speech volume
+<img src="https://github.com/RohitEdathil/lights/blob/master/img/6.jpg" style="width:300px">
+
 
 - Feature
   - Reorder the functions
   - Add or remove items from Favorites
   - Enable or disable a functions
-
+<img src="https://github.com/RohitEdathil/lights/blob/master/img/3.jpg" style="width:300px">
 #### Feature Settings
 
 Contains all the settings offered by individual functions if they offer any.
