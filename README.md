@@ -1,7 +1,7 @@
 # Lights
 
 A project aiming to create a platform for visually challenged individuals to make use of their smart phones.
-
+Created as a part of HackMAS by CSI Trivandrum chapter.
 This app currently has a few demo features. These features are just examples of what such a platform can do. **The real beauty of the project is not what it is now but, what it can be.**
 
 ## Working
